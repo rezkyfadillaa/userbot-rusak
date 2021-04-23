@@ -1,6 +1,6 @@
 {
-  "name": "XBOT REMIX",
-  "description": "[XBOT] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
+  "name": "userbot-rusak",
+  "description": "[BotRusak] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database.",
   "logo": "https://telegra.ph/file/0c5788a2377dfbe83ece6.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ximfine/XBot-Remix",
+  "repository": "https://github.com/rezkyfadillaa/userbot-rusak",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
   "success_url": "https://t.me/XBOT_SUPPORT",
   "stack": "container",
